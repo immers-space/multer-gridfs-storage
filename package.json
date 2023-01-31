@@ -1,6 +1,6 @@
 {
 	"name": "@immers-space/multer-gridfs-storage",
-	"version": "5.0.3",
+	"version": "5.0.4",
 	"description": "Multer storage engine for GridFS",
 	"publishConfig": {
 		"access": "public"
