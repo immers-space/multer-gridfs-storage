@@ -1,3 +1,7 @@
+# 5.0.4
+
+* Security: update peer dependencies to allow lts versions of multer with security fixes
+
 # 5.0.2
 
 * Fixed: Solved bug when not using the client parameter and the topology is not present in the db object #377
